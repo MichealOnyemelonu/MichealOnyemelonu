@@ -44,3 +44,7 @@ Always learning. Always building.
 
 ## Articles
 - [Bash Scripts for Java Setup, Process Management & Node.js Deployment](https://medium.com/@monyemelonu/bash-scripts-for-java-setup-process-management-node-js-deployment-b72b2ba04938)
+
+
+## Frontend Projects
+https://michealonyemelonu.github.io/wdd231/Project/smart_home/index.html    
